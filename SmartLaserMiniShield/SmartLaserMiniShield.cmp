@@ -1,0 +1,234 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2015/02/03 17:01:04
+
+BeginCmp
+TimeStamp = /54B5EAE6;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = C_ELEC_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EAD9;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = C_ELEC_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB4E;
+Reference = C3;
+ValeurCmp = 0u1;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB5B;
+Reference = C4;
+ValeurCmp = 0u1;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D060C8;
+Reference = C5;
+ValeurCmp = 0u1;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB84;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = C_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB91;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = C_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D060DA;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = C_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EA9D;
+Reference = J1;
+ValeurCmp = MOTER-X;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EA97;
+Reference = J2;
+ValeurCmp = MOTER-Y1;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EA80;
+Reference = J3;
+ValeurCmp = MOTER-Y2;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EAEE;
+Reference = J4;
+ValeurCmp = LASER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB39;
+Reference = J5;
+ValeurCmp = LIMIT-X;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB46;
+Reference = J6;
+ValeurCmp = LIMIT-Y;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BF3C4A;
+Reference = J7;
+ValeurCmp = POWER;
+IdModule  = DC-005;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB0C;
+Reference = J8;
+ValeurCmp = 5V;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB25;
+Reference = J9;
+ValeurCmp = DEBUG;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EAA5;
+Reference = J10;
+ValeurCmp = FAN;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BF3C61;
+Reference = J11;
+ValeurCmp = LASER_POWER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D060C2;
+Reference = J12;
+ValeurCmp = DOOR;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D07279;
+Reference = J13;
+ValeurCmp = FAN;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB63;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB7C;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB70;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EB76;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D060CE;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D060D4;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D06F6D;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D06038;
+Reference = TR1;
+ValeurCmp = BSH105;
+IdModule  = SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D06B40;
+Reference = TR2;
+ValeurCmp = M74VHC1GT04;
+IdModule  = 74HC1G00;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EA6C;
+Reference = U1;
+ValeurCmp = DRIVER-X;
+IdModule  = A4988;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EA5F;
+Reference = U2;
+ValeurCmp = DRIVER-Y;
+IdModule  = A4988;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5EA50;
+Reference = U3;
+ValeurCmp = ARDUINO_MEGA;
+IdModule  = ARDUINO_MEGA;
+EndCmp
+
+EndListe
